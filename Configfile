@@ -1,0 +1,4 @@
+LANGUAGES += bash
+
+BINARIES  += cronic
+SOURCES   += cronic.bash
